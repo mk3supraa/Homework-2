@@ -1,0 +1,7 @@
+public class homework2 {
+public static void main(String[] args) {
+	System.out.println("Ravi");
+	System.out.println("rmohabee@nyit.edu");
+	System.out.println("1252759");
+}
+}
