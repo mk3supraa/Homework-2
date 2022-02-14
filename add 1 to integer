@@ -1,0 +1,13 @@
+class homework2addinteger {
+  public static void main(String[] args) {
+   
+int first = 5;
+
+System.out.println("The original number is "+ first);
+
+// add two numbers 
+int sum = first + 1;
+System.out.println("The sum is: "+ sum);
+
+  }
+}
